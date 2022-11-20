@@ -7,16 +7,13 @@ _class:
 
 ![bg left:40% 80%](../../assets//dll-logo.png)
 
-# **Videos**
+# **Introduction to Web Development**
 
-Resources
+Videos
 
 Curated with :heart: By Daryl
 
 ---
 
-# Online Resources
-
-Learn fundamentals of frontend development. Check out these links:
-
 - [Learn HTML & CSS](https://www.youtube.com/watch?v=a_iQb1lnAEQ)
+- [Learn JavaScript](https://www.youtube.com/watch?v=PkZNo7MFNFg)

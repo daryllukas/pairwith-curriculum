@@ -9,7 +9,7 @@ _class:
 
 # **Introduction to Web Development**
 
-Resources
+Reading Resources
 
 Curated with :heart: By Daryl
 
