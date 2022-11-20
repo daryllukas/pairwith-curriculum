@@ -66,7 +66,7 @@ Additional Resources
 
 # Happy Learning! :technologist:
 
-- See [source code]() for updates.
+- See [source code](https://github.com/daryllukas/pairwith-curriculum/blob/master/webdev-intro/resources/reading.md) for updates.
 
 ## Questions and Contributions
 - :email: [hello@daryllukas.me](mailto:hello@daryllukas.me)
